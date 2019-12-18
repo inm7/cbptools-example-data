@@ -1,1 +1,2 @@
+c6d33227-3bc1-477f-870d-1d35b41a4e09 autoenable=true chunk=50mb davcreds=UEdhVEhDWE5Ib1UxbHcxCgo= embedcreds=yes encryption=none name=cbptools-cloud type=webdav url=https://fz-juelich.sciebo.de/public.php/webdav timestamp=1576672095.890382305s
 f8cca125-4f49-41d2-8b2d-fd8fb1b15d0f chunk=50mb encryption=none name=sciebo-cbptools type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/cbptools-example-data.pbox%40fz-juelich.de/cbptools-example-data timestamp=1576509495.003509916s
